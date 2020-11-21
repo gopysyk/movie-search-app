@@ -30,7 +30,7 @@ export default function SearchMovies(){
                 />
             <button className="button" type="submit">Search</button>
         </form>
-        <div className="card-list">
+        <div className="card--list">
             {movies.filter(movie => movie.poster_path).map(movie => (
                 <div className="card" key={movie.id}>
                     <img className="card--image"
