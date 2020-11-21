@@ -6,7 +6,7 @@ function App() {
     <div >
       <div className="container">
         <h1 className="title">React Movie Search</h1>
-        < searchMovies/>
+        < SearchMovies/>
       </div> 
     </div>
     
