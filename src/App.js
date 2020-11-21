@@ -1,11 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react"
+// import searchComponent from "./searchComponent"
 
 function App() {
   return (
-    <div className="App">
-      
+    <div >
+      <div className="container">
+        <h1 className="title">React Movie Search</h1>
+        
+      </div> 
     </div>
+    
   );
 }
 
