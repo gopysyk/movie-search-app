@@ -90,7 +90,7 @@ small {
   }
 }
 
-.card--list {
+.card-list {
   margin-top: 4rem;
 }
 
@@ -103,11 +103,11 @@ small {
 }
 
 .card--title {
-  margin-bottom: 00.5rem;
+  margin-bottom: 0.5rem;
   font-size: 3.2rem;
 }
 
 .card--image {
   margin: 0 auto;
-  display: blocks;
+  display: block;
 }
