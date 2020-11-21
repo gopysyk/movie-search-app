@@ -1,5 +1,5 @@
 import React from "react"
-// import searchComponent from "./searchComponent"
+import searchComponent from "./searchComponent"
 
 function App() {
   return (

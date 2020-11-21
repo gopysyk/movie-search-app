@@ -3,6 +3,8 @@ import React from "react"
 function searchComponent(){
     
     return (
+        <div>
+        <h1>hello</h1>
         <form className="form">
             <label htmlFor="query" className="Label">
             movie name
@@ -18,6 +20,7 @@ function searchComponent(){
             <button className="button" type="submsits">Search</button>
 
         </form>
+        </div>
     )
 }
 
